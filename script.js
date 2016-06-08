@@ -1,3 +1,11 @@
+//**** Things to add ****\\
+
+// Clear list button
+// Date and time
+// Cross off items application
+// Sex up the css
+
+//**** Things to add ****\\
 
 //jQuery
 $(document).ready(function() {
